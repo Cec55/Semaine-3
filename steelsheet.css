@@ -1,0 +1,25 @@
+h2 {
+    font-family : Comic;
+    text-shadow : 10px 10px 5px;
+}
+
+h1 {
+    font-family : Comic;
+    font-style : italic;
+    background-color : blue;
+    height : 50px;
+}
+
+main {
+    background-color : red;
+}
+
+div p {
+    font-size : 26;
+    font-weight : bold;
+    font-family : Arial;
+}
+
+li {
+    list-style-type : decimal;
+}
